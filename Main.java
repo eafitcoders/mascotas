@@ -1,11 +1,12 @@
 import java.util.ArrayList;
-
+//Holi comentarion diferenciador ;)
 public class Main {
     static ArrayList<Mascota> mascotas = new ArrayList<>();
 
     public static void main(String[] args) {
         crearMascota();
         consultarMascotas();
+        printName();
     }
 
 
@@ -28,5 +29,7 @@ public class Main {
     static void eliminarMascotas() {
     }
 
-
+    static void printName() {
+        System.out.println("Nombre: David Hdez");
+    }
 }
