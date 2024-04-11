@@ -6,6 +6,12 @@ public class Main {
     public static void main(String[] args) {
         crearMascota();
         consultarMascotas();
+        imprimirNombre("Alejandro Arteaga Herrera", "Viernes 9-12");
+    }
+    static void imprimirNombre(String name,String hora){
+        //Imprime el nombre del estudiante
+        System.out.println("Holaa, soy "+name );
+        System.out.println("Clase: " + hora);
     }
 
 
