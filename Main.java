@@ -6,14 +6,14 @@ public class Main {
     public static void main(String[] args) {
         crearMascota();
         consultarMascotas();
+        imprimirNombre(); // Aquí se imprime el nombre
     }
-
 
     static void crearMascota() {
         Mascota m1 = new Mascota("Tobias", "Snouzer", "Canino", 5);
-        mascotas.add(m1);//agregamos la cascota a las lista de mascotas
+        mascotas.add(m1);//agregamos la mascota a las lista de mascotas
         Mascota m2 = new Mascota("Lilu", "Pequinez", "Canino", 15);
-        mascotas.add(m2);//agregamos la cascota a las lista de mascotas
+        mascotas.add(m2);//agregamos la mascota a las lista de mascotas
     }
 
     static void consultarMascotas() {
@@ -23,6 +23,11 @@ public class Main {
         }
     }
 
+    // Aquí comienza el método
+    static void imprimirNombre() {
+        System.out.println("Mi nombre es: Felipe Solis");
+    }
+    // Aquí termina el método
 
 
     static void eliminarMascotas() {
