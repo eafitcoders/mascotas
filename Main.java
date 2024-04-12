@@ -6,8 +6,12 @@ public class Main {
     public static void main(String[] args) {
         crearMascota();
         consultarMascotas();
+        imprimirNombre();
     }
 
+    static void imprimirNombre() {
+        System.out.println("Juan José Gómez Ramírez");
+    }
 
     static void crearMascota() {
         Mascota m1 = new Mascota("Tobias", "Snouzer", "Canino", 5);
