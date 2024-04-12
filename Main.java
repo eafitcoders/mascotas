@@ -8,6 +8,9 @@ public class Main {
         consultarMascotas();
     }
 
+    static void imprimirNombre(){
+        System.out.println("Lucas Higuita Bedoya");
+    }
 
     static void crearMascota() {
         Mascota m1 = new Mascota("Tobias", "Snouzer", "Canino", 5);
