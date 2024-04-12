@@ -28,5 +28,9 @@ public class Main {
     static void eliminarMascotas() {
     }
 
+    public static void nombre() {
+        System.out.println("Juan Camilo Ramón Pérez");
+    }
+
 
 }
