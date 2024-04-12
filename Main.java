@@ -28,5 +28,8 @@ public class Main {
     static void eliminarMascotas() {
     }
 
+    public static void nombreJuan() {
+        System.out.println("Mi nombre es: Juan Camilo Ramón Pérez");
+    }
 
 }
