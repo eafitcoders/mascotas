@@ -28,7 +28,7 @@ public class Main {
 
 
 
-    static void eliminarMascotas() {
-    }
+    //static void eliminarMascotas() {
+    //}
 }
 
