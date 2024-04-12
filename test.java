@@ -19,7 +19,10 @@ public class test {
 
         System.out.println("La suma de la diagonal principal es: " + suma);
 
+
         Main.nombreJuan();
+        
+
     }
 }
 
