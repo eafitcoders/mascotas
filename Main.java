@@ -31,6 +31,12 @@ public class Main {
         System.out.println("Grupo: Viernes 9-12m");
     }
 
+    static void nombre_apellido(){
+        System.out.println("Nombre: Felipe Ochoa Lotero");
+        System.out.println("Número de documento: 1000409803");
+        System.out.println("Grupo: Viernes 6-9am");
+    }
+
 
 
     static void eliminarMascotas() {
