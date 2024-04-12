@@ -6,6 +6,11 @@ public class Main {
     public static void main(String[] args) {
         crearMascota();
         consultarMascotas();
+        imprimirNombre();
+    }
+
+    static void imprimirNombre() {
+        System.out.println("Juan Simón Ospina Martinez");
     }
 
 
