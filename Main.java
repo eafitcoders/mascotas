@@ -4,9 +4,11 @@ public class Main {
     static ArrayList<Mascota> mascotas = new ArrayList<>();
 
     public static void main(String[] args) {
+        nombre();
         crearMascota();
         consultarMascotas();
     }
+
 
 
     static void crearMascota() {
@@ -21,6 +23,11 @@ public class Main {
         for (Mascota m : mascotas) {
             System.out.println(m.getNombre());
         }
+    }
+
+    static void nombre(){
+        System.out.println("Estudiante:");
+        System.out.println("Mayerly Alejandra Suarez Sepulveda\n");
     }
 
 
