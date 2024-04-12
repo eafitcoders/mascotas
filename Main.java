@@ -1,11 +1,10 @@
 import java.util.ArrayList;
-
 public class Main {
     static ArrayList<Mascota> mascotas = new ArrayList<>();
-
     public static void main(String[] args) {
         crearMascota();
         consultarMascotas();
+        mostrarNombre();
     }
 
 
@@ -15,18 +14,21 @@ public class Main {
         Mascota m2 = new Mascota("Lilu", "Pequinez", "Canino", 15);
         mascotas.add(m2);//agregamos la cascota a las lista de mascotas
     }
-
     static void consultarMascotas() {
         System.out.println("----Lista de Mascotas--------");
         for (Mascota m : mascotas) {
             System.out.println(m.getNombre());
         }
     }
+    // hacer método para que aparezca mi nombre
+    static void mostrarNombre() {
+        System.out.println("---------------------------------------------------------");
+        System.out.println("Hola, mi nombre es Sara López del grupo del Viernes 9-12");
+    }
 
 
 
     static void eliminarMascotas() {
     }
-
-
 }
+
