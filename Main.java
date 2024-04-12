@@ -23,7 +23,9 @@ public class Main {
         }
     }
 
-
+    static void ImprimirNombreCamiloG(){
+        System.out.println("Nombre: Camilo Guzman U."); //Grupo 3324
+    }
 
     static void eliminarMascotas() {
     }
