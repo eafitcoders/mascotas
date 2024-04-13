@@ -18,6 +18,10 @@ public class test {
         }
 
         System.out.println("La suma de la diagonal principal es: " + suma);
+
+        //Invocacion del metodo del nombre ( Esteban Molina )
+        Main m1 = new Main();
+        m1.nombreEsteban();
     }
 }
 
