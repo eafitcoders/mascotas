@@ -7,6 +7,7 @@ public class Main {
         crearMascota();
         consultarMascotas();
         nombre();
+        Imprimir_Nicolas_Ospina();
     }
 
 
@@ -31,8 +32,10 @@ public class Main {
         System.out.println("Grupo: Viernes 9-12m");
     }
 
-
-
+    static void Imprimir_Nicolas_Ospina(){
+        System.out.println("Estudiante: Nicolás Ospina Torres");
+        System.out.println("Grupo: Lenguajes de Programación 3324");
+    }
     static void eliminarMascotas() {
     }
 
