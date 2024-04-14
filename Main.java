@@ -6,6 +6,10 @@ public class Main {
     public static void main(String[] args) {
         crearMascota();
         consultarMascotas();
+        imprimirNombre("Camila Velez");
+    }
+    static void imprimirNombre (String name){
+        System.out.println("Mi nombre es: " + name);
     }
 
 
