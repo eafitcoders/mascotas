@@ -4,9 +4,10 @@ public class Main {
     static ArrayList<Mascota> mascotas = new ArrayList<>();
 
     public static void main(String[] args) {
+
         crearMascota();
         consultarMascotas();
-        nombre();
+        Minombre();
     }
 
 
@@ -24,11 +25,8 @@ public class Main {
         }
     }
 
-    //Metodo para imprimir mi nombre
-    static void nombre(){
-        System.out.println("Nombre: Sofía Isaareth Flores Suárez");
-        System.out.println("Número de documento: 1127626894");
-        System.out.println("Grupo: Viernes 9-12m");
+    static void Minombre(){
+        System.out.println("mi nombre es miguel angel ortiz puerta\n mi cc es 1011392676 \n soy del grupo de 6 a 9 am de los viernes");
     }
 
 

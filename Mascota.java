@@ -14,7 +14,6 @@ public class Mascota {
         this.tipo = tipo;
         this.edad = edad;
     }
-
     public String getNombre() {
         return nombre;
     }
