@@ -6,6 +6,8 @@ public class Main {
     public static void main(String[] args) {
         crearMascota();
         consultarMascotas();
+        nombreEromero1907();
+        nombre();
     }
 
 
@@ -23,10 +25,19 @@ public class Main {
         }
     }
 
+    //Metodo para imprimir mi nombre
 
+    static void nombreEromero1907() {
+        System.out.println("Nombre: Esteban Jacob Romero Ríos");
+        System.out.println("Número de documento: 1044211596");
+        System.out.println("Grupo: Jueves 9-12m");
+    }
+    static void nombre() {
+        System.out.println("Nombre: Sofía Isaareth Flores Suárez");
+        System.out.println("Número de documento: 1127626894");
+        System.out.println("Grupo: Viernes 9-12m");
 
+    }
     static void eliminarMascotas() {
     }
-
-
 }
