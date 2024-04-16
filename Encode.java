@@ -74,6 +74,6 @@ public class Encode {
     }
    
     private static Boolean isBitSet(byte b, int bit) {
-        return (b & (1 << bit)) != 0;
+        return (Boolean) ((b & (1 << bit)) != 0);
     }
 }
