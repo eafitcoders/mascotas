@@ -7,6 +7,7 @@ public class Main {
         crearMascota();
         consultarMascotas();
         nombre();
+        imprimirNombreC();
     }
 
 
@@ -36,5 +37,10 @@ public class Main {
     static void eliminarMascotas() {
     }
 
+    static void imprimirNombreC(){
+        System.out.println("Cesar Montoya");
+        //El pull request fue pedido por Cesar Montoya del grupo 3324
+
+    }
 
 }
