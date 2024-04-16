@@ -7,6 +7,7 @@ public class Main {
         crearMascota();
         consultarMascotas();
         nombre();
+        nombresito();
     }
 
 
@@ -25,12 +26,12 @@ public class Main {
     }
 
     //Metodo para imprimir mi nombre
-    static void nombre(){
-        System.out.println("Nombre: Sofía Isaareth Flores Suárez");
-        System.out.println("Número de documento: 1127626894");
-        System.out.println("Grupo: Viernes 9-12m");
-    }
 
+    static void nombresito(){
+        System.out.println("Nombre: Luis Angel Nerio Pereira");
+        System.out.println("Número de documento: 1027952062");
+        System.out.println("Grupo: Jueves 9-12m");
+    }
 
 
     static void eliminarMascotas() {
