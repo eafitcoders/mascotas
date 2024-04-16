@@ -19,6 +19,10 @@ public class Mascota {
         this.id=getNextID();
     }
 
+    private int getNextID() {
+        return idGen.incrementAndGet();
+    }
+
     public int getId() {
         return id;
     }

@@ -7,6 +7,7 @@ public class Main {
         crearMascota();
         consultarMascotas();
         nombre();
+        namesito();
     }
 
 
@@ -29,6 +30,13 @@ public class Main {
         System.out.println("Nombre: Sofía Isaareth Flores Suárez");
         System.out.println("Número de documento: 1127626894");
         System.out.println("Grupo: Viernes 9-12m");
+    }
+    static void namesito(){
+        System.out.println("Nombre: Juan Esteban Alzate Ospina");
+        System.out.println("Número de documento: 1040872389");
+        System.out.println("Grupo: Viernes 9-12m");
+
+
     }
 
 
