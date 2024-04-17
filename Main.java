@@ -26,9 +26,9 @@ public class Main {
 
     //Metodo para imprimir mi nombre
     static void nombre(){
-        System.out.println("Nombre: Sofía Isaareth Flores Suárez");
-        System.out.println("Número de documento: 1127626894");
-        System.out.println("Grupo: Viernes 9-12m");
+        System.out.println("Nombre: Isabella Idarraga");
+        System.out.println("Número de documento: 1011511471");
+        System.out.println("Grupo: Jueves 9-12m");
     }
 
 

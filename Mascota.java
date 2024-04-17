@@ -16,7 +16,6 @@ public class Mascota {
         this.raza = raza;
         this.tipo = tipo;
         this.edad = edad;
-        this.id=getNextID();
     }
 
     public int getId() {
