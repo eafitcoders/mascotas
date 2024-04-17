@@ -6,10 +6,12 @@ public class Main {
     public static void main(String[] args) {
         crearMascota();
         consultarMascotas();
-        nombre();
+        imprimirnombre();
     }
 
-
+    static void imprimirnombre(){
+        System.out.println("Juan Miguel Ramirez");
+    }
     static void crearMascota() {
         Mascota m1 = new Mascota("Tobias", "Snouzer", "Canino", 5);
         mascotas.add(m1);//agregamos la cascota a las lista de mascotas
@@ -24,13 +26,7 @@ public class Main {
         }
     }
 
-    //Metodo para imprimir mi nombre
-    static void nombre(){
-        System.out.println("Nombre: Sofía Isaareth Flores Suárez");
-        System.out.println("Número de documento: 1127626894");
-        System.out.println("Grupo: Viernes 9-12m");
-    }
-
+ 
 
 
     static void eliminarMascotas() {
