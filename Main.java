@@ -4,11 +4,12 @@ public class Main {
     static ArrayList<Mascota> mascotas = new ArrayList<>();
 
     public static void main(String[] args) {
-        simonMartinez(;
+        simonMartinez();
         crearMascota();
         consultarMascotas();
         nombre();
         nuevoNombre();
+        thomasBuitrago();
     }
 
 
@@ -45,6 +46,11 @@ public class Main {
         System.out.println("Grupo: miercoles 9-12am");
     }
 
+    static void thomasBuitrago() {
+        System.out.println("Nombre: Thomas Buitrago Uribe");
+        System.out.println("Número de documento: 1000409680");
+        System.out.println("Grupo: viernes 9-12 am");
+    }
 
     static void eliminarMascotas() {
     }
