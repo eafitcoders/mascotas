@@ -26,9 +26,10 @@ public class Main {
 
     //Metodo para imprimir mi nombre
     static void nombre(){
-        System.out.println("Nombre: Sofía Isaareth Flores Suárez");
-        System.out.println("Número de documento: 1127626894");
-        System.out.println("Grupo: Viernes 9-12m");
+        System.out.println("Nombre del dueño: Juan Manuel Castellanos");
+        System.out.println("Cedula de ciudadania: 1011393625");
+        System.out.println("Direccion de residencia: Cra 24 #43A-87");
+        System.out.println("Grupo: Jueves 9am a 12am");
     }
 
 
