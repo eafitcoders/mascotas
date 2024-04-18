@@ -30,11 +30,4 @@ public class Main {
         System.out.println("Direccion de residencia: Cra 24 #43A-87");
         System.out.println("Grupo: Jueves 9am a 12am");
     }
-
-
-
-    static void eliminarMascotas() {
     }
-
-
-}
