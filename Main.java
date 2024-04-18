@@ -24,8 +24,7 @@ public class Main {
         }
     }
 
-    //Metodo para imprimir mi nombre
-    static void nombre(){
+    static void nombre() {
         System.out.println("Nombre del dueño: Juan Manuel Castellanos");
         System.out.println("Cedula de ciudadania: 1011393625");
         System.out.println("Direccion de residencia: Cra 24 #43A-87");
