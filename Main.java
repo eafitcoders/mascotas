@@ -26,7 +26,7 @@ public class Main {
 
     //Metodo para imprimir mi nombre
     static void nombre(){
-        System.out.println("Nombre: Juan Esteban Zuluaga Quintero");
+        System.out.println("Nombre: Juan Esteban Zuluaga Quintero ");
         System.out.println("Número de documento: 1036252594");
         System.out.println("Grupo: Viernes 9-12m");
     }
