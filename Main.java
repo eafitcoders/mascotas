@@ -4,6 +4,7 @@ public class Main {
     static ArrayList<Mascota> mascotas = new ArrayList<>();
 
     public static void main(String[] args) {
+        simonMartinez(;
         crearMascota();
         consultarMascotas();
         nombre();
@@ -36,6 +37,11 @@ public class Main {
         System.out.println("Nombre: Maria Alejandra Ocampo Giraldo");
         System.out.println("Número de documento: 1036928998");
         System.out.println("Grupo: Jueves 9-12am");
+    }
+    static void simonMartinez() {
+        System.out.println("Nombre: Simon Martinez");
+        System.out.println("Número de documento: 1001367561");
+        System.out.println("Grupo: miercoles 9-12am");
     }
 
 
