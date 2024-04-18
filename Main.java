@@ -4,9 +4,15 @@ public class Main {
     static ArrayList<Mascota> mascotas = new ArrayList<>();
 
     public static void main(String[] args) {
+        simonMartinez(;
         crearMascota();
         consultarMascotas();
+
         printName();
+
+        nombre();
+        nuevoNombre();
+
     }
 
 
@@ -28,6 +34,24 @@ public class Main {
         System.out.println("Modificado por: Paula");
     }
 
+
+    //Metodo para imprimir mi nombre
+    static void nombre(){
+        System.out.println("Nombre: Jose Alejandro Jimenez Vasquez");
+        System.out.println("Número de documento: 1020302386");
+        System.out.println("Grupo: Jueves 9-12m");
+    }
+
+    static void nuevoNombre() {
+        System.out.println("Nombre: Maria Alejandra Ocampo Giraldo");
+        System.out.println("Número de documento: 1036928998");
+        System.out.println("Grupo: Jueves 9-12am");
+    }
+    static void simonMartinez() {
+        System.out.println("Nombre: Simon Martinez");
+        System.out.println("Número de documento: 1001367561");
+        System.out.println("Grupo: miercoles 9-12am");
+    }
 
 
     static void eliminarMascotas() {
