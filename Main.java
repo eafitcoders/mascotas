@@ -12,6 +12,14 @@ public class Main {
         crearMascota();
         consultarMascotas();
 
+        imprimirnombre();
+    }
+
+    static void imprimirnombre(){
+        System.out.println("Juan Miguel Ramirez");
+    }
+
+
         imprimirMiNombre();
 
 
@@ -33,6 +41,7 @@ public class Main {
 
 
     }
+
 
 
 
@@ -67,6 +76,9 @@ public class Main {
 
 
 
+
+ 
+
     //Metodo para imprimir mi nombre
     static void nombre(){
 
@@ -95,6 +107,7 @@ public class Main {
         System.out.println("Grupo: miercoles 9-12am");
 
     }
+
 
 
     static void thomasBuitrago() {
