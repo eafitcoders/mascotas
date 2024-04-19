@@ -31,18 +31,17 @@ public class Main {
         System.out.println("Número de documento: 1127626894");
         System.out.println("Grupo: Viernes 9-12m");
     }
-    static void namesito(){
-        System.out.println("Nombre: Juan Esteban Alzate Ospina");
-        System.out.println("Número de documento: 1040872389");
-        System.out.println("Grupo: Viernes 9-12m");
 
-
-    }
 
 
 
     static void eliminarMascotas() {
     }
 
+    static void namesito(){
+        System.out.println("Nombre: Juan Esteban Alzate Ospina");
+        System.out.println("Número de documento: 1040872389");
+        System.out.println("Grupo: Viernes 9-12m");
 
+    }
 }
