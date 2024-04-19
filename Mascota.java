@@ -7,7 +7,7 @@ public class Mascota {
     private String raza;
     private String tipo;
     private int edad;
-   
+
     //métodos gettes and setters
 
 
@@ -17,10 +17,6 @@ public class Mascota {
         this.tipo = tipo;
         this.edad = edad;
         this.id=getNextID();
-    }
-
-    private int getNextID() {
-        return idGen.incrementAndGet();
     }
 
     public int getId() {
