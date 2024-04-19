@@ -8,6 +8,8 @@ public class Main {
         crearMascota();
         consultarMascotas();
 
+        imprimirNombre();
+
         printName();
 
         nombre();
@@ -24,8 +26,12 @@ public class Main {
 
 
 
+
     }
 
+    static void imprimirNombre() {
+        System.out.println("Juan José Gómez Ramírez");
+    }
 
     static void crearMascota() {
         Mascota m1 = new Mascota("Tobias", "Snouzer", "Canino", 5);
