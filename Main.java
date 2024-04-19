@@ -69,6 +69,11 @@ public class Main {
 
     //Metodo para imprimir mi nombre
     static void nombre(){
+ Alejandro-Jaramillo-Rodriguez
+        System.out.println("Nombre: Alejandro Jaramillo Rodriguez");
+        System.out.println("Número de documento: 1027800088");
+        System.out.println("Grupo: Viernes 9-12m");
+
         System.out.println("Nombre: Jose Alejandro Jimenez Vasquez");
         System.out.println("Número de documento: 1020302386");
         System.out.println("Grupo: Jueves 9-12m");
@@ -83,6 +88,7 @@ public class Main {
         System.out.println("Nombre: Simon Martinez");
         System.out.println("Número de documento: 1001367561");
         System.out.println("Grupo: miercoles 9-12am");
+
     }
 
 
