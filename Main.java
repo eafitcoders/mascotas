@@ -117,4 +117,14 @@ public class Main {
 
     }
 
+    public static void nombreJuan() {
+        System.out.println("Mi nombre es: Juan Camilo Ramón Pérez");
+    }
+
+    public static void nombre() {
+        System.out.println("Juan Camilo Ramón Pérez");
+    }
+
+
+
 }
