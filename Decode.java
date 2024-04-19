@@ -6,7 +6,7 @@ import javax.imageio.ImageIO;
 public class Decode {
     public static void main(String[] args) {
         if (args.length<1) {
-            System.out.println("Formato: Decode imagen");
+            System.out. println("Formato: Decode imagen");
             System.exit(0);
         }
         String img_in=args[0];

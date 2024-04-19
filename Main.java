@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-
 public class Main {
     static ArrayList<Mascota> mascotas = new ArrayList<>();
 
@@ -69,6 +68,13 @@ public class Main {
 
     //Metodo para imprimir mi nombre
     static void nombre(){
+Tarea-William-Andrés-Henao
+        System.out.println("Nombre: William Andrés Henao López");
+        System.out.println("Número de documento: 1040032470");
+        System.out.println("Grupo: Viernes 9-12pm");
+    }
+
+
         System.out.println("Nombre: Jose Alejandro Jimenez Vasquez");
         System.out.println("Número de documento: 1020302386");
         System.out.println("Grupo: Jueves 9-12m");
@@ -102,6 +108,7 @@ public class Main {
         System.out.println("Estudiante: Nicolás Ospina Torres");
         System.out.println("Grupo: Lenguajes de Programación 3324");
     }
+
     static void eliminarMascotas() {
     }
 
