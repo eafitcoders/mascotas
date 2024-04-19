@@ -12,6 +12,9 @@ public class Main {
         crearMascota();
         consultarMascotas();
 
+        imprimirMiNombre();
+
+
         printName();
 
         nombre();
@@ -24,6 +27,7 @@ public class Main {
         nuevoNombre();
 
         thomasBuitrago();
+
 
 
 
@@ -44,6 +48,10 @@ public class Main {
         for (Mascota m : mascotas) {
             System.out.println(m.getNombre());
         }
+    }
+    // Llama al método imprimirNombre
+    static void imprimirMiNombre() {
+        System.out.println("Mi nombre es: Luis Castrillon ");
     }
 
 
