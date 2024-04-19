@@ -69,9 +69,14 @@ public class Main {
 
     //Metodo para imprimir mi nombre
     static void nombre(){
+
+        System.out.println("Nombre: Juan Esteban Zuluaga Quintero ");
+        System.out.println("Número de documento: 1036252594");
+
  Alejandro-Jaramillo-Rodriguez
         System.out.println("Nombre: Alejandro Jaramillo Rodriguez");
         System.out.println("Número de documento: 1027800088");
+
         System.out.println("Grupo: Viernes 9-12m");
 
         System.out.println("Nombre: Jose Alejandro Jimenez Vasquez");
