@@ -4,7 +4,11 @@ public class Main {
     static ArrayList<Mascota> mascotas = new ArrayList<>();
 
     public static void main(String[] args) {
+
+        nombre();
+
         simonMartinez();
+
         crearMascota();
         consultarMascotas();
 
@@ -27,6 +31,7 @@ public class Main {
     }
 
 
+
     static void crearMascota() {
         Mascota m1 = new Mascota("Tobias", "Snouzer", "Canino", 5);
         mascotas.add(m1);//agregamos la mascota a las lista de mascotas
@@ -41,9 +46,17 @@ public class Main {
         }
     }
 
+
+    static void nombre(){
+        System.out.println("Estudiante:");
+        System.out.println("Mayerly Alejandra Suarez Sepulveda\n");
+    }
+
+
     static void printName(){
         System.out.println("Modificado por: Paula");
     }
+
 
 
     //Metodo para imprimir mi nombre
