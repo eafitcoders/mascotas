@@ -7,17 +7,31 @@ public class Main {
         simonMartinez();
         crearMascota();
         consultarMascotas();
+
+        printName();
+
         nombre();
+
+        Imprimir_Nicolas_Ospina();
+
+
+        imprimirNombreC();
+
         nuevoNombre();
+
         thomasBuitrago();
+
+
+
+
     }
 
 
     static void crearMascota() {
         Mascota m1 = new Mascota("Tobias", "Snouzer", "Canino", 5);
-        mascotas.add(m1);//agregamos la cascota a las lista de mascotas
+        mascotas.add(m1);//agregamos la mascota a las lista de mascotas
         Mascota m2 = new Mascota("Lilu", "Pequinez", "Canino", 15);
-        mascotas.add(m2);//agregamos la cascota a las lista de mascotas
+        mascotas.add(m2);//agregamos la mascota a las lista de mascotas
     }
 
     static void consultarMascotas() {
@@ -25,6 +39,10 @@ public class Main {
         for (Mascota m : mascotas) {
             System.out.println(m.getNombre());
         }
+    }
+
+    static void printName(){
+        System.out.println("Modificado por: Paula");
     }
 
 
@@ -46,14 +64,30 @@ public class Main {
         System.out.println("Grupo: miercoles 9-12am");
     }
 
+
     static void thomasBuitrago() {
         System.out.println("Nombre: Thomas Buitrago Uribe");
         System.out.println("Número de documento: 1000409680");
         System.out.println("Grupo: viernes 9-12 am");
+
+    static void juanSebastianRave() {
+        System.out.println("Nombre: Juan Sebastián Rave Martínez");
+        System.out.println("Número de documento: 1023628594");
+        System.out.println("Grupo: miercoles 9-12am");
+
     }
 
+    static void Imprimir_Nicolas_Ospina(){
+        System.out.println("Estudiante: Nicolás Ospina Torres");
+        System.out.println("Grupo: Lenguajes de Programación 3324");
+    }
     static void eliminarMascotas() {
     }
 
+    static void imprimirNombreC(){
+        System.out.println("Cesar Montoya");
+        //El pull request fue pedido por Cesar Montoya del grupo 3324
+
+    }
 
 }
