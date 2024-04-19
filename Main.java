@@ -7,7 +7,6 @@ public class Main {
         crearMascota();
         consultarMascotas();
         nombre();
-        namesito();
     }
 
 
