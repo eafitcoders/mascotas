@@ -1,10 +1,13 @@
+import java.util.concurrent.atomic.AtomicInteger;
 public class Mascota {
     //atributos
+    private static final AtomicInteger idGen = new AtomicInteger(0);
+    private int id;
     private String nombre;
     private String raza;
     private String tipo;
     private int edad;
-
+   
     //métodos gettes and setters
 
 
@@ -13,6 +16,11 @@ public class Mascota {
         this.raza = raza;
         this.tipo = tipo;
         this.edad = edad;
+        this.id=getNextID();
+    }
+
+    public int getId() {
+        return id;
     }
 
     public String getNombre() {
