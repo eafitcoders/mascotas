@@ -6,7 +6,6 @@ public class Main {
     public static void main(String[] args) {
         crearMascota();
         consultarMascotas();
-        nombre();
         nombreEsteban();
     }
 
@@ -38,6 +37,7 @@ public class Main {
         String grupo = " Grupo 3091 Viernes 6-9 am ";
         String documento = " 1034988238";
         System.out.println(name + grupo + documento );
+        System.out.printf("Tareita 2 prueba");
     }
 
 
