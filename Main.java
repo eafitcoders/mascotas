@@ -24,20 +24,15 @@ public class Main {
         }
     }
 
-    //Metodo para imprimir mi nombre
-    static void nombre(){
-        System.out.println("Nombre: Sofía Isaareth Flores Suárez");
-        System.out.println("Número de documento: 1127626894");
-        System.out.println("Grupo: Viernes 9-12m");
-    }
 
-    //Metodo para imprimir mi nombre
+
+    //Metodo para imprimir mi nombre (
     public static void nombreEsteban(){
         String name = "Esteban Molina";
         String grupo = " Grupo 3091 Viernes 6-9 am ";
         String documento = " 1034988238";
         System.out.println(name + grupo + documento );
-        System.out.printf("Tareita 2 prueba");
+        System.out.println(" Tareita 2");
     }
 
 
