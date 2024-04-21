@@ -27,6 +27,7 @@ public class Main {
 
     static void Minombre(){
         System.out.println("mi nombre es miguel angel ortiz puerta\n mi cc es 1011392676 \n soy del grupo de 6 a 9 am de los viernes");
+        System.out.println("gracias por su atención");
 
     }
 
