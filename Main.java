@@ -4,9 +4,6 @@ public class Main {
     static ArrayList<Mascota> mascotas = new ArrayList<>();
 
     public static void main(String[] args) {
-
-        crearMascota();
-        consultarMascotas();
         Minombre();
     }
 
