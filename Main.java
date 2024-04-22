@@ -36,5 +36,28 @@ public class Main {
     static void eliminarMascotas() {
     }
 
+<<<<<<< Updated upstream
+=======
+    static void imprimirNombreC(){
+        System.out.println("Cesar Montoya");
+        //El pull request fue pedido por Cesar Montoya del grupo 3324
+
+    }
+
+    public static void nombreJuan() {
+        System.out.println("Mi nombre es: Juan Camilo Ramón Pérez");
+    }
+
+    public static void nombre() {
+        System.out.println("Juan Camilo Ramón Pérez");
+    }
+
+    static void NOMBRESDG() {
+        System.out.println("Nombre: Samuel Deossa Gomez");
+        System.out.println("Número de documento: 1023593101");
+        System.out.println("Grupo: Jueves 9-12am");
+
+        }
+>>>>>>> Stashed changes
 
 }
