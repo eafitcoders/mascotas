@@ -143,6 +143,11 @@ public class Main {
         System.out.println("Juan Camilo Ramón Pérez");
     }
 
+    static void nombreSaDG() {
+        System.out.println("Nombre: Samuel Deossa Gomez");
+        System.out.println("Número de documento: 1023593101);
+        System.out.println("Grupo: Jueves 9-12am");
 
+        }
 
 }
