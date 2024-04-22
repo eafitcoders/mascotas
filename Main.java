@@ -36,8 +36,7 @@ public class Main {
     static void eliminarMascotas() {
     }
 
-<<<<<<< Updated upstream
-=======
+
     static void imprimirNombreC(){
         System.out.println("Cesar Montoya");
         //El pull request fue pedido por Cesar Montoya del grupo 3324
@@ -58,6 +57,6 @@ public class Main {
         System.out.println("Grupo: Jueves 9-12am");
 
         }
->>>>>>> Stashed changes
+
 
 }
