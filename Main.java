@@ -13,6 +13,7 @@ public class Main {
         consultarMascotas();
 
         imprimirnombre();
+
     }
 
     static void imprimirnombre(){
@@ -36,7 +37,7 @@ public class Main {
 
         thomasBuitrago();
 
-
+        NSV();
 
 
 
@@ -156,4 +157,12 @@ public class Main {
 
         }
 
+
+        static void NSV() {
+            Mascota tigre = new Mascota("Tigre", "Fox Terrier", "Canino", 8);
+            System.out.println("\nNombre: Nicolás Saldarriaga Valencia");
+            System.out.println("Número de Identificación: 1027740533");
+            System.out.println("Grupo: Jueves 9am-12m");
+            System.out.println("Mascota: " + tigre.getNombre());
+        }
 }
