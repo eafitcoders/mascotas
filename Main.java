@@ -36,6 +36,8 @@ public class Main {
 
         thomasBuitrago();
 
+        MiNombre();
+
 
 
 
@@ -148,6 +150,12 @@ public class Main {
     public static void nombre() {
         System.out.println("Juan Camilo Ramón Pérez");
     }
+
+        static void MiNombre() {
+            System.out.println("Nombre: Juan Pablo Corena Álvarez");
+            System.out.println("Número: 1126644465");
+            System.out.println("Grupo: Jueves 9-12");
+        }
 
     static void nombreSaDG() {
         System.out.println("Nombre: Samuel Deossa Gomez");
