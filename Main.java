@@ -36,6 +36,8 @@ public class Main {
 
         thomasBuitrago();
 
+        ElMaestrotic2();
+
 
 
 
@@ -156,4 +158,15 @@ public class Main {
 
         }
 
-}
+        static void ElMaestrotic2(){
+            System.out.println("------------------------------------------------------");
+            System.out.println("Je mapelle Martin Vanegas Ospina et j'ai 18 ans");
+            Mascota g1 = new Mascota("Colmillo", "Cruce", "Felino", 2);
+            mascotas.add(g1);
+            System.out.println("Mi mascota se llama: " + g1.getNombre());
+            System.out.println("Favorite tv show: How I Met Your Mother ");
+            System.out.println("Grupo: Jueves 9-12m");
+        }
+
+
+    }
