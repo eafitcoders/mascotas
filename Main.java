@@ -108,6 +108,12 @@ public class Main {
 
     }
 
+    static void IsaIda(){
+    System.out.println("Nombre: Isabella Idarraga Botero");
+    System.out.println("Numero de identificación: 1011511471");
+    System.out.println("Grupo: 9am-12pm");
+    }
+
 
 
     static void thomasBuitrago() {
