@@ -12,6 +12,14 @@ public class Main {
         crearMascota();
         consultarMascotas();
 
+        imprimirNombre();
+    }
+
+    static void imprimirNombre(){
+        System.out.println("Lucas Higuita Bedoya");
+    }
+
+
         imprimirnombre();
         JJRR();
     }
@@ -48,6 +56,7 @@ public class Main {
 
 
     }
+
 
 
 
