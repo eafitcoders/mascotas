@@ -13,6 +13,7 @@ public class Main {
         consultarMascotas();
 
         imprimirnombre();
+        JJRR();
     }
 
     static void imprimirnombre(){
@@ -62,7 +63,13 @@ public class Main {
     static void imprimirMiNombre() {
         System.out.println("Mi nombre es: Luis Castrillon ");
     }
-
+    public static void JJRR() {
+        System.out.println("======================================");
+        System.out.println("Nombre: Juan José Rodríguez Restrepo");
+        System.out.println("C.C: 1036449192");
+        System.out.println("Grupo: Jueves 9am-12pm");
+        System.out.println("======================================");
+    }
 
     static void nombre(){
         System.out.println("Estudiante:");
