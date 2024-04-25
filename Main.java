@@ -126,6 +126,10 @@ public class Main {
         System.out.println("Grupo: Jueves 9am-12pm");
     }
 
+ static void SamuelHenao(){
+        System.out.println("Nombre: Samuel Henao Castrillon");
+        System.out.println("Grupo: Jueves 9am-12pm");
+    }
 
 
     static void thomasBuitrago() {
