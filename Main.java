@@ -13,6 +13,7 @@ public class Main {
         consultarMascotas();
 
         imprimirnombre();
+        JJRR();
     }
 
     static void imprimirnombre(){
@@ -36,7 +37,11 @@ public class Main {
 
         thomasBuitrago();
 
+
         ElMaestrotic2();
+
+        MiNombre();
+
 
 
 
@@ -64,7 +69,13 @@ public class Main {
     static void imprimirMiNombre() {
         System.out.println("Mi nombre es: Luis Castrillon ");
     }
-
+    public static void JJRR() {
+        System.out.println("======================================");
+        System.out.println("Nombre: Juan José Rodríguez Restrepo");
+        System.out.println("C.C: 1036449192");
+        System.out.println("Grupo: Jueves 9am-12pm");
+        System.out.println("======================================");
+    }
 
     static void nombre(){
         System.out.println("Estudiante:");
@@ -115,6 +126,11 @@ public class Main {
     System.out.println("Numero de identificación: 1011511471");
     System.out.println("Grupo: 9am-12pm");
     }
+    static void EstebanRomero(){
+        System.out.println("Nombre: Esteban Jacob Romero Ríos");
+        System.out.println("Numero de identificación: 1044211596");
+        System.out.println("Grupo: Jueves 9am-12pm");
+    }
 
 
 
@@ -151,12 +167,29 @@ public class Main {
         System.out.println("Juan Camilo Ramón Pérez");
     }
 
+        static void MiNombre() {
+            System.out.println("Nombre: Juan Pablo Corena Álvarez");
+            System.out.println("Número: 1126644465");
+            System.out.println("Grupo: Jueves 9-12");
+        }
+
     static void nombreSaDG() {
         System.out.println("Nombre: Samuel Deossa Gomez");
-        System.out.println("Número de documento: 1023593101);
+        System.out.println("Número de documento: 1023593101");
         System.out.println("Grupo: Jueves 9-12am");
-
         }
+    
+    static void ImprimirNombreMateo(){
+        System.out.println("Nombre: Mateo Andres Pineda Beltran")
+    }
+
+
+    public static void gabyMar(){
+        System.out.println("Nombre: Gabriela Lucía Martínez Mercado");
+        System.out.println("Numero de identificación: 1048441217");
+        System.out.println("Grupo: Jueves 9am-12pm");
+        }
+
 
         static void ElMaestrotic2(){
             System.out.println("------------------------------------------------------");
@@ -170,3 +203,13 @@ public class Main {
 
 
     }
+
+    static void PuesYO() {
+        System.out.println("Nombre: Juan Manuel Escobar Mejia");
+        System.out.println("Número de documento: 1025882573");
+        System.out.println("Grupo: Jueves 9-12am");
+    }
+
+
+}
+
