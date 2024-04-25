@@ -113,6 +113,11 @@ public class Main {
     System.out.println("Numero de identificación: 1011511471");
     System.out.println("Grupo: 9am-12pm");
     }
+    static void EstebanRomero(){
+        System.out.println("Nombre: Esteban Jacob Romero Ríos");
+        System.out.println("Numero de identificación: 1044211596");
+        System.out.println("Grupo: Jueves 9am-12pm");
+    }
 
 
 
