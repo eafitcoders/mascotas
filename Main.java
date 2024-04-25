@@ -37,7 +37,11 @@ public class Main {
 
         thomasBuitrago();
 
+
+        ElMaestrotic2();
+
         MiNombre();
+
 
 
 
@@ -186,6 +190,20 @@ public class Main {
         System.out.println("Grupo: Jueves 9am-12pm");
         }
 
+
+        static void ElMaestrotic2(){
+            System.out.println("------------------------------------------------------");
+            System.out.println("Je mapelle Martin Vanegas Ospina et j'ai 18 ans");
+            Mascota g1 = new Mascota("Colmillo", "Cruce", "Felino", 2);
+            mascotas.add(g1);
+            System.out.println("Mi mascota se llama: " + g1.getNombre());
+            System.out.println("Favorite tv show: How I Met Your Mother ");
+            System.out.println("Grupo: Jueves 9-12m");
+        }
+
+
+    }
+
     static void PuesYO() {
         System.out.println("Nombre: Juan Manuel Escobar Mejia");
         System.out.println("Número de documento: 1025882573");
@@ -194,3 +212,4 @@ public class Main {
 
 
 }
+
