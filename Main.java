@@ -171,12 +171,18 @@ public class Main {
 
     static void nombreSaDG() {
         System.out.println("Nombre: Samuel Deossa Gomez");
-        System.out.println("Número de documento: 1023593101);
+        System.out.println("Número de documento: 1023593101");
         System.out.println("Grupo: Jueves 9-12am");
         }
     
     static void ImprimirNombreMateo(){
         System.out.println("Nombre: Mateo Andres Pineda Beltran")
+    }
+
+    static void PuesYO() {
+        System.out.println("Nombre: Juan Manuel Escobar Mejia");
+        System.out.println("Número de documento: 1025882573");
+        System.out.println("Grupo: Jueves 9-12am");
     }
 
 }
