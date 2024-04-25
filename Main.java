@@ -179,10 +179,18 @@ public class Main {
         System.out.println("Nombre: Mateo Andres Pineda Beltran")
     }
 
+
+    public static void gabyMar(){
+        System.out.println("Nombre: Gabriela Lucía Martínez Mercado");
+        System.out.println("Numero de identificación: 1048441217");
+        System.out.println("Grupo: Jueves 9am-12pm");
+        }
+
     static void PuesYO() {
         System.out.println("Nombre: Juan Manuel Escobar Mejia");
         System.out.println("Número de documento: 1025882573");
         System.out.println("Grupo: Jueves 9-12am");
     }
+
 
 }
