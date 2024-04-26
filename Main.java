@@ -7,7 +7,6 @@ public class Main {
         crearMascota();
         consultarMascotas();
 
-        imprimirNombres();  // Método que llama todos los métodos creados para la tarea por cada estudiante
     }
 
     static void crearMascota() {
