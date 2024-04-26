@@ -2,6 +2,11 @@ import java.util.ArrayList;
 
 public class Main {
     static ArrayList<Mascota> mascotas = new ArrayList<>();
+    static void mi_nombreARci() {
+        System.out.println("Nombre: Daniel Arcila ");
+        System.out.println("Grupo: 9-12am");
+
+    }
 
     public static void main(String[] args) {
 
