@@ -87,6 +87,15 @@ public class Main {
         System.out.println("Modificado por: Paula");
     }
 
+    static void nombreFelipe(){
+        System.out.println("Tarea 2");
+        String nombre = "Nombre: Felipe Ochoa Lotero";
+        String group = "Número de documento: 1000409803";
+        String documento = "Grupo:3091 Viernes 6-9am";
+        System.out.println(nombre + group + documento);
+
+    }
+
 
 
 
