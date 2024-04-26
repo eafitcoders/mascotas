@@ -5,35 +5,18 @@ public class Main {
 
     public static void main(String[] args) {
 
-        nombre();
-
+        nombreJose();
         simonMartinez();
-
         crearMascota();
         consultarMascotas();
-
         imprimirMiNombre();
-
-
         printName();
-
         nombre();
-
         Imprimir_Nicolas_Ospina();
-
-
         imprimirNombreC();
-
         nuevoNombre();
-
         thomasBuitrago();
-
-
-
-
-
     }
-
 
 
     static void crearMascota() {
@@ -49,26 +32,26 @@ public class Main {
             System.out.println(m.getNombre());
         }
     }
+
     // Llama al método imprimirNombre
     static void imprimirMiNombre() {
         System.out.println("Mi nombre es: Luis Castrillon ");
     }
 
 
-    static void nombre(){
+    static void nombre() {
         System.out.println("Estudiante:");
         System.out.println("Mayerly Alejandra Suarez Sepulveda\n");
     }
 
 
-    static void printName(){
+    static void printName() {
         System.out.println("Modificado por: Paula");
     }
 
 
-
     //Metodo para imprimir mi nombre
-    static void nombre(){
+    static void nombreJose() {
         System.out.println("Nombre: Jose Alejandro Jimenez Vasquez");
         System.out.println("Número de documento: 1020302386");
         System.out.println("Grupo: Jueves 9-12m");
@@ -79,6 +62,7 @@ public class Main {
         System.out.println("Número de documento: 1036928998");
         System.out.println("Grupo: Jueves 9-12am");
     }
+
     static void simonMartinez() {
         System.out.println("Nombre: Simon Martinez");
         System.out.println("Número de documento: 1001367561");
@@ -90,6 +74,7 @@ public class Main {
         System.out.println("Nombre: Thomas Buitrago Uribe");
         System.out.println("Número de documento: 1000409680");
         System.out.println("Grupo: viernes 9-12 am");
+    }
 
     static void juanSebastianRave() {
         System.out.println("Nombre: Juan Sebastián Rave Martínez");
@@ -98,17 +83,17 @@ public class Main {
 
     }
 
-    static void Imprimir_Nicolas_Ospina(){
+    static void Imprimir_Nicolas_Ospina() {
         System.out.println("Estudiante: Nicolás Ospina Torres");
         System.out.println("Grupo: Lenguajes de Programación 3324");
     }
+
     static void eliminarMascotas() {
     }
 
-    static void imprimirNombreC(){
+    static void imprimirNombreC() {
         System.out.println("Cesar Montoya");
         //El pull request fue pedido por Cesar Montoya del grupo 3324
-
     }
 
 }

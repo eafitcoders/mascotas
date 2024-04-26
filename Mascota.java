@@ -11,17 +11,23 @@ public class Mascota {
     //métodos gettes and setters
 
 
-    public Mascota(String nombre, String raza, String tipo, int edad) {
+    public Mascota(String nombre, String raza, String tipo, int edad ) {
         this.nombre = nombre;
         this.raza = raza;
         this.tipo = tipo;
         this.edad = edad;
-        this.id=getNextID();
+        //this.id=getNextID();
     }
+
+
 
     public int getId() {
         return id;
     }
+
+    public int getNextId(){
+        int NextId=+1;
+        return NextId;}
 
     public String getNombre() {
         return nombre;
