@@ -14,12 +14,18 @@ public class Main {
 
         imprimirnombre();
         JJRR();
+        imprimirSamuelSerpa();
     }
 
     static void imprimirnombre(){
         System.out.println("Juan Miguel Ramirez");
     }
+    static void imprimirSamuelSerpa(){
+        System.out.println("Nombre: samuel david serpa zapa");
+        System.out.println("CC: 1066723755");
+        System.out.println("ID: 1000");
 
+    }
 
         imprimirMiNombre();
 
@@ -206,7 +212,6 @@ public class Main {
         }
 
 
-    }
 
     static void PuesYO() {
         System.out.println("Nombre: Juan Manuel Escobar Mejia");
