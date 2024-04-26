@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        nombre();
+        //nombre();
 
         simonMartinez();
 
@@ -17,12 +17,12 @@ public class Main {
 
         printName();
 
-        nombre();
-
-        Imprimir_Nicolas_Ospina();
-
-
-        imprimirNombreC();
+//        nombre();
+//
+//        Imprimir_Nicolas_Ospina();
+//
+//
+//        imprimirNombreC();
 
         nuevoNombre();
 
@@ -68,12 +68,12 @@ public class Main {
 
 
     //Metodo para imprimir mi nombre
-    static void nombre(){
+    static void nombre112(){
 
         System.out.println("Nombre: Juan Esteban Zuluaga Quintero ");
         System.out.println("Número de documento: 1036252594");
 
- Alejandro-Jaramillo-Rodriguez
+
         System.out.println("Nombre: Alejandro Jaramillo Rodriguez");
         System.out.println("Número de documento: 1027800088");
 
@@ -102,7 +102,7 @@ public class Main {
         System.out.println("Número de documento: 1000409680");
         System.out.println("Grupo: viernes 9-12 am");
 
-    static void juanSebastianRave() {
+    static void juanSebastianRavem() {
         System.out.println("Nombre: Juan Sebastián Rave Martínez");
         System.out.println("Número de documento: 1023628594");
         System.out.println("Grupo: miercoles 9-12am");
