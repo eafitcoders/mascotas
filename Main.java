@@ -52,13 +52,11 @@ public class Main {
         System.out.println("Número de documento: 1001367561");
         System.out.println("Grupo: miercoles 9-12am");
     }
-    static void simonMartinez() {
-        System.out.println("Nombre: Simon Martinez");
-        System.out.println("Número de documento: 1001367561");
+    static void miguelHernandez() {
+        System.out.println("Nombre: Miguel Hernandez");
+        System.out.println("Número de documento: 1025883350");
         System.out.println("Grupo: miercoles 9-12am");
     }
-
-
 
     static void eliminarMascotas() {
     }
