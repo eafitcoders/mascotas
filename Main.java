@@ -14,19 +14,13 @@ public class Main {
 
         imprimirnombre();
         JJRR();
-        imprimirSamuelSerpa();
         SamuelSerpa();
     }
 
     static void imprimirnombre(){
         System.out.println("Juan Miguel Ramirez");
     }
-    static void imprimirSamuelSerpa(){
-        System.out.println("Nombre: samuel david serpa zapa");
-        System.out.println("CC: 1066723755");
-        System.out.println("ID: 1000");
 
-    }
     static void SamuelSerpa(){
         System.out.println("Nombre: samuel david serpa zapa");
         System.out.println("CC: 1066723755");
