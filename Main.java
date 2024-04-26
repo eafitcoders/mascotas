@@ -10,6 +10,22 @@ public class Main {
         crearMascota();
         consultarMascotas();
 
+
+        imprimirnombre();
+        JJRR();
+
+    }
+
+    static void imprimirnombre(){
+        System.out.println("Juan Miguel Ramirez");
+    }
+
+    static void SamuelSerpa(){
+        System.out.println("Nombre: samuel david serpa zapa");
+        System.out.println("CC: 1066723755");
+        System.out.println("ID: 1000");
+
+    }
         imprimirMiNombre();
         printName();
         nombre();
@@ -66,6 +82,15 @@ public class Main {
 
     static void printName(){
         System.out.println("Modificado por: Paula");
+    }
+
+    static void nombreFelipe(){
+        System.out.println("Tarea 2");
+        String nombre = "Nombre: Felipe Ochoa Lotero";
+        String group = "Número de documento: 1000409803";
+        String documento = "Grupo:3091 Viernes 6-9am";
+        System.out.println(nombre + group + documento);
+
     }
 
 
@@ -187,12 +212,23 @@ public class Main {
     }
 
 
-    }
 
     static void PuesYO() {
         System.out.println("Nombre: Juan Manuel Escobar Mejia");
         System.out.println("Número de documento: 1025882573");
         System.out.println("Grupo: Jueves 9-12am");
+    }
+
+    static void minombrediego() {
+        System.out.println("Nombre: Diego Bedoya");
+        System.out.println("calse 3091");
+        System.out.println("Grupo: viernes 6 a 9am");
+    }
+
+    static void mi_nombre() {
+        System.out.println("Nombre: Joseph Henao Botero ");
+        System.out.println("Grupo: 6-9am");
+        System.out.println("NUmero del grupo: 3091");
     }
 
 
