@@ -8,9 +8,12 @@ public class Main {
         consultarMascotas();
         imprimirNombre();
     }
+
     static void imprimirNombre() {
         System.out.println("Juan Simón Ospina Martinez");
     }
+
+
     static void crearMascota() {
         Mascota m1 = new Mascota("Tobias", "Snouzer", "Canino", 5);
         mascotas.add(m1);//agregamos la cascota a las lista de mascotas
@@ -24,6 +27,11 @@ public class Main {
             System.out.println(m.getNombre());
         }
     }
+
+
+
     static void eliminarMascotas() {
     }
+
+
 }
