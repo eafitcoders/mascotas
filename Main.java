@@ -5,12 +5,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        nombre();
-
+        nombreJose();
         simonMartinez();
-
         crearMascota();
         consultarMascotas();
+
 
         imprimirnombre();
         JJRR();
@@ -27,21 +26,12 @@ public class Main {
         System.out.println("ID: 1000");
 
     }
-
         imprimirMiNombre();
-
-
         printName();
-
         nombre();
-
         Imprimir_Nicolas_Ospina();
-
-
         imprimirNombreC();
-
         nuevoNombre();
-
         thomasBuitrago();
 
 
@@ -59,12 +49,12 @@ public class Main {
 
 
 
-    static void crearMascota() {
-        Mascota m1 = new Mascota("Tobias", "Snouzer", "Canino", 5);
-        mascotas.add(m1);//agregamos la mascota a las lista de mascotas
-        Mascota m2 = new Mascota("Lilu", "Pequinez", "Canino", 15);
-        mascotas.add(m2);//agregamos la mascota a las lista de mascotas
-    }
+        static void crearMascota() {
+            Mascota m1 = new Mascota("Tobias", "Snouzer", "Canino", 5);
+            mascotas.add(m1);//agregamos la mascota a las lista de mascotas
+            Mascota m2 = new Mascota("Lilu", "Pequinez", "Canino", 15);
+            mascotas.add(m2);//agregamos la mascota a las lista de mascotas
+        }
 
     static void consultarMascotas() {
         System.out.println("----Lista de Mascotas--------");
@@ -135,7 +125,7 @@ public class Main {
         System.out.println("Número de documento: 1001367561");
         System.out.println("Grupo: miercoles 9-12am");
 
-    }
+        }
 
     static void IsaIda(){
     System.out.println("Nombre: Isabella Idarraga Botero");
@@ -159,12 +149,12 @@ public class Main {
         System.out.println("Número de documento: 1000409680");
         System.out.println("Grupo: viernes 9-12 am");
 
-    static void juanSebastianRave() {
-        System.out.println("Nombre: Juan Sebastián Rave Martínez");
-        System.out.println("Número de documento: 1023628594");
-        System.out.println("Grupo: miercoles 9-12am");
+        static void juanSebastianRave() {
+            System.out.println("Nombre: Juan Sebastián Rave Martínez");
+            System.out.println("Número de documento: 1023628594");
+            System.out.println("Grupo: miercoles 9-12am");
 
-    }
+        }
 
     static void Imprimir_Nicolas_Ospina(){
         System.out.println("Estudiante: Nicolás Ospina Torres");
@@ -179,21 +169,21 @@ public class Main {
 
     }
 
-    public static void nombreJuan() {
-        System.out.println("Mi nombre es: Juan Camilo Ramón Pérez");
-    }
-
-    public static void nombre() {
-        System.out.println("Juan Camilo Ramón Pérez");
-    }
-
-        static void MiNombre() {
-            System.out.println("Nombre: Juan Pablo Corena Álvarez");
-            System.out.println("Número: 1126644465");
-            System.out.println("Grupo: Jueves 9-12");
+        public static void nombreJuan() {
+            System.out.println("Mi nombre es: Juan Camilo Ramón Pérez");
         }
 
-    static void nombreSaDG() {
+        public static void nombre() {
+            System.out.println("Juan Camilo Ramón Pérez");
+        }
+
+    static void MiNombre() {
+        System.out.println("Nombre: Juan Pablo Corena Álvarez");
+        System.out.println("Número: 1126644465");
+        System.out.println("Grupo: Jueves 9-12");
+    }
+
+        static void nombreSaDG() {
         System.out.println("Nombre: Samuel Deossa Gomez");
         System.out.println("Número de documento: 1023593101");
         System.out.println("Grupo: Jueves 9-12am");
@@ -208,18 +198,18 @@ public class Main {
         System.out.println("Nombre: Gabriela Lucía Martínez Mercado");
         System.out.println("Numero de identificación: 1048441217");
         System.out.println("Grupo: Jueves 9am-12pm");
-        }
+    }
 
 
-        static void ElMaestrotic2(){
-            System.out.println("------------------------------------------------------");
-            System.out.println("Je mapelle Martin Vanegas Ospina et j'ai 18 ans");
-            Mascota g1 = new Mascota("Colmillo", "Cruce", "Felino", 2);
-            mascotas.add(g1);
-            System.out.println("Mi mascota se llama: " + g1.getNombre());
-            System.out.println("Favorite tv show: How I Met Your Mother ");
-            System.out.println("Grupo: Jueves 9-12m");
-        }
+    static void ElMaestrotic2() {
+        System.out.println("------------------------------------------------------");
+        System.out.println("Je mapelle Martin Vanegas Ospina et j'ai 18 ans");
+        Mascota g1 = new Mascota("Colmillo", "Cruce", "Felino", 2);
+        mascotas.add(g1);
+        System.out.println("Mi mascota se llama: " + g1.getNombre());
+        System.out.println("Favorite tv show: How I Met Your Mother ");
+        System.out.println("Grupo: Jueves 9-12m");
+    }
 
 
 
