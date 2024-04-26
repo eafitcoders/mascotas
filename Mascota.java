@@ -60,4 +60,9 @@ public class Mascota {
     public void setEdad(int edad) {
         this.edad = edad;
     }
+
+    public static void ponerNom (){
+        System.out.println("Camilo Salazar");
+        //grupo 2505
+    }
 }

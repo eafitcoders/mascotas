@@ -9,6 +9,7 @@ public class Main {
         simonMartinez();
         crearMascota();
         consultarMascotas();
+
         imprimirMiNombre();
         printName();
         nombre();
@@ -16,7 +17,13 @@ public class Main {
         imprimirNombreC();
         nuevoNombre();
         thomasBuitrago();
+
+
+
+
+
     }
+
 
 
     static void crearMascota() {
@@ -37,7 +44,13 @@ public class Main {
     static void imprimirMiNombre() {
         System.out.println("Mi nombre es: Luis Castrillon ");
     }
-
+    public static void JJRR() {
+        System.out.println("======================================");
+        System.out.println("Nombre: Juan José Rodríguez Restrepo");
+        System.out.println("C.C: 1036449192");
+        System.out.println("Grupo: Jueves 9am-12pm");
+        System.out.println("======================================");
+    }
 
     static void nombre() {
         System.out.println("Estudiante:");
@@ -50,8 +63,9 @@ public class Main {
     }
 
 
+
     //Metodo para imprimir mi nombre
-    static void nombreJose() {
+    static void nombre(){
         System.out.println("Nombre: Jose Alejandro Jimenez Vasquez");
         System.out.println("Número de documento: 1020302386");
         System.out.println("Grupo: Jueves 9-12m");
@@ -67,6 +81,23 @@ public class Main {
         System.out.println("Nombre: Simon Martinez");
         System.out.println("Número de documento: 1001367561");
         System.out.println("Grupo: miercoles 9-12am");
+
+    }
+
+    static void IsaIda(){
+    System.out.println("Nombre: Isabella Idarraga Botero");
+    System.out.println("Numero de identificación: 1011511471");
+    System.out.println("Grupo: 9am-12pm");
+    }
+    static void EstebanRomero(){
+        System.out.println("Nombre: Esteban Jacob Romero Ríos");
+        System.out.println("Numero de identificación: 1044211596");
+        System.out.println("Grupo: Jueves 9am-12pm");
+    }
+
+ static void SamuelHenao(){
+        System.out.println("Nombre: Samuel Henao Castrillon");
+        System.out.println("Grupo: Jueves 9am-12pm");
     }
 
 
@@ -96,4 +127,57 @@ public class Main {
         //El pull request fue pedido por Cesar Montoya del grupo 3324
     }
 
+    public static void nombreJuan() {
+        System.out.println("Mi nombre es: Juan Camilo Ramón Pérez");
+    }
+
+    public static void nombre() {
+        System.out.println("Juan Camilo Ramón Pérez");
+    }
+
+        static void MiNombre() {
+            System.out.println("Nombre: Juan Pablo Corena Álvarez");
+            System.out.println("Número: 1126644465");
+            System.out.println("Grupo: Jueves 9-12");
+        }
+
+    static void nombreSaDG() {
+        System.out.println("Nombre: Samuel Deossa Gomez");
+        System.out.println("Número de documento: 1023593101");
+        System.out.println("Grupo: Jueves 9-12am");
+        }
+    
+    static void ImprimirNombreMateo(){
+        System.out.println("Nombre: Mateo Andres Pineda Beltran")
+    }
+
+
+    public static void gabyMar(){
+        System.out.println("Nombre: Gabriela Lucía Martínez Mercado");
+        System.out.println("Numero de identificación: 1048441217");
+        System.out.println("Grupo: Jueves 9am-12pm");
+        }
+
+
+        static void ElMaestrotic2(){
+            System.out.println("------------------------------------------------------");
+            System.out.println("Je mapelle Martin Vanegas Ospina et j'ai 18 ans");
+            Mascota g1 = new Mascota("Colmillo", "Cruce", "Felino", 2);
+            mascotas.add(g1);
+            System.out.println("Mi mascota se llama: " + g1.getNombre());
+            System.out.println("Favorite tv show: How I Met Your Mother ");
+            System.out.println("Grupo: Jueves 9-12m");
+        }
+
+
+    }
+
+    static void PuesYO() {
+        System.out.println("Nombre: Juan Manuel Escobar Mejia");
+        System.out.println("Número de documento: 1025882573");
+        System.out.println("Grupo: Jueves 9-12am");
+    }
+
+
 }
+
