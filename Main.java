@@ -8,7 +8,7 @@ public class Main {
         simonMartinez();
         crearMascota();
         consultarMascotas();
-        Darcilas();
+        Darcilas1();
     }
 
     static void crearMascota() {
@@ -155,7 +155,7 @@ public class Main {
         System.out.println("Grupo: Jueves 9-12");
     }
 
-    static void Darcilas(){
+    static void Darcilas1(){
         System.out.println("Nombre: Daniel Arcila Salazar...");
         System.out.println("Cedula: 1033257612");
         System.out.println("Horario: 9am-12pm");
