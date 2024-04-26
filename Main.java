@@ -156,7 +156,7 @@ public class Main {
     }
 
     static void Darcilas(){
-        System.out.println("Nombre: Daniel Arcila Salazar..:.");
+        System.out.println("Nombre: Daniel Arcila Salazar");
         System.out.println("Cedula: 1033257612");
         System.out.println("Horario: 9am-12pm");
     }
