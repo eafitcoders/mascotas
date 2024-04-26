@@ -15,6 +15,8 @@ public class Main {
         imprimirnombre();
         JJRR();
         imprimirSamuelSerpa();
+
+        mi_nombre();
     }
 
     static void imprimirnombre(){
@@ -232,6 +234,12 @@ public class Main {
         System.out.println("Nombre: Diego Bedoya");
         System.out.println("calse 3091");
         System.out.println("Grupo: viernes 6 a 9am");
+    }
+
+    static void mi_nombre() {
+        System.out.println("Nombre: Joseph Henao Botero ");
+        System.out.println("Grupo: 6-9am");
+        System.out.println("NUmero del grupo: 3091");
     }
 
 
