@@ -50,7 +50,9 @@ public class Main {
         Mascota m2 = new Mascota("Lilu", "Pequinez", "Canino", 15);
         mascotas.add(m2);//agregamos la mascota a las lista de mascotas
     }
-
+    static void esobrad(){
+        System.out.println("eso brad"); //necesitaba hacer otro commit
+    }
     static void imprimirnombre() {
         System.out.println("Juan Miguel Ramirez");
     }
