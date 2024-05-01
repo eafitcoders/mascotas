@@ -237,6 +237,11 @@ public class Main {
         System.out.println("NUmero del grupo: 3091");
     }
 
+    static void NombreValentina() {
+        System.out.println("Nombre: Valentina Hidalgo");
+        System.out.println("calse 3091");
+        System.out.println("Grupo: viernes 6 a 9am");
+    }
 
 }
 
