@@ -238,4 +238,10 @@ public class Main {
         System.out.println("Grupo: viernes 6 a 9am");
     }
 
+    static void NombreGeronimo() {
+        System.out.println("Nombre:Geronimo Montes");
+        System.out.println("calse 3091");
+        System.out.println("Grupo: viernes 6 a 9am");
+    }
+
 }
