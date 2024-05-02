@@ -16,10 +16,8 @@ public class Main {
         crearMascota();
         consultarMascotas();
 
-
         imprimirnombre();
         JJRR();
-
 
         imprimirMiNombre();
 
@@ -35,24 +33,23 @@ public class Main {
 
         thomasBuitrago();
 
-
         ElMaestrotic2();
 
         MiNombre();
 
-
     }
-
 
     static void crearMascota() {
         Mascota m1 = new Mascota("Tobias", "Snouzer", "Canino", 5);
-        mascotas.add(m1);//agregamos la mascota a las lista de mascotas
+        mascotas.add(m1);// agregamos la mascota a las lista de mascotas
         Mascota m2 = new Mascota("Lilu", "Pequinez", "Canino", 15);
-        mascotas.add(m2);//agregamos la mascota a las lista de mascotas
+        mascotas.add(m2);// agregamos la mascota a las lista de mascotas
     }
-    static void esobrad(){
-        System.out.println("eso brad"); //necesitaba hacer otro commit
+
+    static void esobrad() {
+        System.out.println("eso brad"); // necesitaba hacer otro commit
     }
+
     static void imprimirnombre() {
         System.out.println("Juan Miguel Ramirez");
     }
@@ -89,7 +86,6 @@ public class Main {
         System.out.println("Mayerly Alejandra Suarez Sepulveda\n");
     }
 
-
     static void printName() {
         System.out.println("Modificado por: Paula");
     }
@@ -103,13 +99,11 @@ public class Main {
 
     }
 
-
-    //Metodo para imprimir mi nombre
+    // Metodo para imprimir mi nombre
     static void nombreJose() {
 
         System.out.println("Nombre: Juan Esteban Zuluaga Quintero ");
         System.out.println("Número de documento: 1036252594");
-
 
         System.out.println("Nombre: Alejandro Jaramillo Rodriguez");
         System.out.println("Número de documento: 1027800088");
@@ -151,7 +145,6 @@ public class Main {
         System.out.println("Grupo: Jueves 9am-12pm");
     }
 
-
     static void thomasBuitrago() {
         System.out.println("Nombre: Thomas Buitrago Uribe");
         System.out.println("Número de documento: 1000409680");
@@ -175,14 +168,13 @@ public class Main {
 
     static void imprimirNombreC() {
         System.out.println("Cesar Montoya");
-        //El pull request fue pedido por Cesar Montoya del grupo 3324
+        // El pull request fue pedido por Cesar Montoya del grupo 3324
 
     }
 
     public static void nombreJuan() {
         System.out.println("Mi nombre es: Juan Camilo Ramón Pérez");
     }
-
 
     static void MiNombre() {
         System.out.println("Nombre: Juan Pablo Corena Álvarez");
@@ -200,13 +192,11 @@ public class Main {
         System.out.println("Nombre: Mateo Andres Pineda Beltran");
     }
 
-
     public static void gabyMar() {
         System.out.println("Nombre: Gabriela Lucía Martínez Mercado");
         System.out.println("Numero de identificación: 1048441217");
         System.out.println("Grupo: Jueves 9am-12pm");
     }
-
 
     static void ElMaestrotic2() {
         System.out.println("------------------------------------------------------");
@@ -217,7 +207,6 @@ public class Main {
         System.out.println("Favorite tv show: How I Met Your Mother ");
         System.out.println("Grupo: Jueves 9-12m");
     }
-
 
     static void PuesYO() {
         System.out.println("Nombre: Juan Manuel Escobar Mejia");
@@ -243,5 +232,10 @@ public class Main {
         System.out.println("Grupo: viernes 6 a 9am");
     }
 
-}
+    static void NombrePablo() {
+        System.out.println("Nombre: Pablo Cardona");
+        System.out.println("calse 3091");
+        System.out.println("Grupo: viernes 6 a 9am");
+    }
 
+}
