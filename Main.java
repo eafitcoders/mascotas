@@ -244,4 +244,10 @@ public class Main {
         System.out.println("Grupo: viernes 6 a 9am");
     }
 
+    static void NombreAntonia() {
+        System.out. println("Nombre: Maria Antonia Muñoz")
+        System.out.println("Id: 1128904424")
+        System.out.println("Grupo: Jueves 9-12pm")
+}
+
 }
