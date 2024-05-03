@@ -1,0 +1,225 @@
+[33mcommit 6182ecd284a174b59a616a9118ef1813bdd6a6d1[m[33m ([m[1;36mHEAD -> [m[1;32mmascotas[m[33m, [m[1;31morigin/mascotas[m[33m)[m
+Merge: 6dc44ec f3aa85f
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Fri Apr 19 10:56:03 2024 -0500
+
+    Merge branch 'master' into mascotas
+
+[33mcommit f3aa85f83b1556bc2a91586656a0e9d3febab38f[m
+Merge: 3438781 579b86e
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Fri Apr 19 10:53:01 2024 -0500
+
+    Merge pull request #12 from AlejandraS15/master
+    
+    Funcion nombre
+
+[33mcommit 579b86e5bcf89a5c4d166a686609a1ec218d8bf9[m
+Merge: 76aa1c8 3438781
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Fri Apr 19 10:52:51 2024 -0500
+
+    Merge branch 'master' into master
+
+[33mcommit 343878193b4e3396d6d90ba7f5004490a1158868[m
+Merge: f32535c ff8b2bc
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Fri Apr 19 10:40:08 2024 -0500
+
+    Merge pull request #38 from thomasSC0607/master
+    
+    metodo nombre por Thomas Buitrago
+
+[33mcommit ff8b2bca0268905daa6b13aa6e070b6ff915a7f1[m
+Merge: 0b1e793 f32535c
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Fri Apr 19 10:39:50 2024 -0500
+
+    Merge branch 'master' into master
+
+[33mcommit f32535c621acc77b16baf51c71d8fba2a016f401[m
+Merge: 6f53209 5471cc1
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Fri Apr 19 10:38:33 2024 -0500
+
+    Merge pull request #19 from niosto/master
+    
+    Imprimir método personalizado
+
+[33mcommit 5471cc18fa8c25ded783cb76168169769c9862e8[m
+Merge: f23a1e1 6f53209
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Fri Apr 19 10:38:16 2024 -0500
+
+    Merge branch 'master' into master
+
+[33mcommit 6f5320974321d76a8cfb24da82092eebe4772fc5[m
+Merge: 9eb57ad add36b1
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Fri Apr 19 10:36:33 2024 -0500
+
+    Merge pull request #29 from Cesarmontoya15/master
+    
+    Función imprimirNombreC
+
+[33mcommit add36b1baed18bf9f093a076b93255b89f8d2050[m
+Merge: a720a31 9eb57ad
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Fri Apr 19 10:36:21 2024 -0500
+
+    Merge branch 'master' into master
+
+[33mcommit 9eb57add4cd318f329980f5a4a44ea8889e86cc9[m
+Merge: 9a1d3f4 e8d54bb
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Fri Apr 19 10:35:17 2024 -0500
+
+    Merge pull request #39 from Sr4v33/master
+    
+    Name added to Main method - Juan Sebastian Rave Martínez
+
+[33mcommit 9a1d3f4b1bbf960e0ccd3f0bec1a0180694f6c2f[m
+Merge: 708a160 ac36a46
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Thu Apr 18 16:02:41 2024 -0500
+
+    Merge pull request #5 from pillanosl/master
+    
+    Tareita ok
+
+[33mcommit ac36a4657c8276f203ed4e40bc2edebf1707df5d[m
+Merge: 4ededdb 708a160
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Thu Apr 18 16:02:05 2024 -0500
+
+    Merge branch 'master' into master
+
+[33mcommit 0b1e79327488206d3cdf1ebad74ef50757018f22[m
+Author: Thomas Buitrago Uribe <tbuitragou@eafit.edu.co>
+Date:   Thu Apr 18 12:32:57 2024 -0500
+
+    metodo nombre por Thomas Buitrago
+
+[33mcommit e8d54bb9636a2163acc1a9c3257be1b416b99271[m
+Author: Sr4v3 <juansebastianrm123@gmail.com>
+Date:   Thu Apr 18 11:44:41 2024 -0500
+
+    Name added to Main method - Juan Sebastian Rave M.
+
+[33mcommit 708a16021de453cb5c20a8f740fa0785c9f538e3[m
+Merge: ad433dd 8aa1479
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Thu Apr 18 10:54:41 2024 -0500
+
+    Merge pull request #37 from smartinezg2000/master
+    
+    creacion de metodo en main
+
+[33mcommit ad433ddae49355d0bc846883fd0a46b9d1ed22a6[m
+Merge: b6b5a77 5068bc7
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Thu Apr 18 10:53:12 2024 -0500
+
+    Merge pull request #24 from ElMasLindoDeEafit/master
+    
+    Agregue mi nombre, documento y grupo (Jose Jimenez)
+
+[33mcommit 8aa14791784bd4cee920204e4f37744748d811f1[m
+Author: smartinezg2000 <140659939+smartinezg2000@users.noreply.github.com>
+Date:   Thu Apr 18 10:51:39 2024 -0500
+
+    creacion de metodo en main
+
+[33mcommit b6b5a777f8f4d46f98c31aa1c47882dd0cd718de[m
+Merge: 10d775b 7283cd6
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Thu Apr 18 10:32:40 2024 -0500
+
+    Merge pull request #16 from Maocampog1/master
+    
+    Crecion de metodo nuevoNombre (Maria Alejandra Ocampo Giraldo)
+
+[33mcommit a720a31bd2707348eb84cc91ab1ad717d7271cfb[m
+Author: Cesarmontoya15 <142271553+Cesarmontoya15@users.noreply.github.com>
+Date:   Mon Apr 15 23:16:51 2024 -0500
+
+    Funcion imprimirNombreC
+    
+    se ha añadido una funcion que imprima mi nombre, para llevar a cabo la realizacion de la actividad.
+
+[33mcommit 5068bc79281b70a804dbf21e951a45b95f46809a[m
+Author: Jose Alejandro Jiménez Vásquez <140639167+ElMasLindoDeEafit@users.noreply.github.com>
+Date:   Mon Apr 15 20:45:20 2024 -0500
+
+    Agregue mi nombre, documento y grupo
+    
+    El trabajo tuve que hacerlo sin GitHub desktop debido a que no tiene interfaz para Linux (deb)
+
+[33mcommit 10d775b0c7c0fb91ab483dd97670fbfa7cb19d7d[m
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Sun Apr 14 13:41:19 2024 -0500
+
+    Update Mascota.java
+    
+    Se han realizado cambios en la clase Mascota, con el objetivo de poder generar Ids únicos para cada máscota al momento de crear una instancia.
+    
+    Deberás actualizar tu proyecto local como segunda tareita que complenenta a la primera. Revisa tu buzón en interactiva para que sepas exactamente qué hacer.
+
+[33mcommit f23a1e11ce04aef06930f7c9e7c543e60b6a1afe[m
+Author: niosto <nicolasospinat@gmail.com>
+Date:   Sat Apr 13 11:16:58 2024 -0500
+
+    Imprimir método personalizado
+    
+    Añadir un método que imprima mi nombre
+
+[33mcommit 7283cd698dd053f16242bc2e4820d54af986b31c[m
+Author: maria <maocampog1@eafit.edu.co>
+Date:   Fri Apr 12 20:50:15 2024 -0500
+
+    Crecion de metodo nuevoNombre (Maria Alejandra Ocampo Giraldo)
+
+[33mcommit 0d2ab320a52c3ae1d29a9333e199f3522fdea9b0[m
+Merge: f70950b 198fc06
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Fri Apr 12 14:14:52 2024 -0500
+
+    Merge pull request #2 from isaareth/master
+    
+    Name: check
+
+[33mcommit 76aa1c8fb86030d5c5dcbabba6380ac42a414507[m
+Author: AlejandraS15 <141249376+AlejandraS15@users.noreply.github.com>
+Date:   Fri Apr 12 11:14:40 2024 -0500
+
+    Tareita
+
+[33mcommit ab51f555522def62381e980922a7e2fe8a07c8c1[m
+Author: AlejandraS15 <141249376+AlejandraS15@users.noreply.github.com>
+Date:   Fri Apr 12 11:06:48 2024 -0500
+
+    Tareita
+
+[33mcommit 6dc44ec403925dcaf0e025f5bfd2020f3e394ddb[m
+Author: lacastrilp <lacastrilp@eafit.edu.co>
+Date:   Fri Apr 12 05:03:33 2024 -0500
+
+    Agregado método estático imprimirNombre en MainClass. En esta confirmación se ha agregado un método estático llamado imprimirNombre en la clase MainClass. Este método imprime el nombre del estudiante en la consola. Grupo: eafitcoders
+
+[33mcommit 4ededdb947ae5f8b5c44285495c4773204e0f444[m
+Author: pillanosl <pillanosl@eafit.edu.co>
+Date:   Fri Apr 12 04:27:29 2024 -0500
+
+    Tareita ok
+
+[33mcommit 198fc06901f7e81b9f6b7a19408f29bc8d875aae[m
+Author: isaareth <sifloress@eafit.edu.co>
+Date:   Thu Apr 11 22:17:28 2024 -0500
+
+    Name: check
+
+[33mcommit f70950bdb1e11fa288ee8aee19ed7457f7ea97af[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: elmaestrotic <45459513+elmaestrotic@users.noreply.github.com>
+Date:   Mon Apr 1 17:47:50 2024 -0500
+
+    Initial commit
