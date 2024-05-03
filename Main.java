@@ -150,4 +150,11 @@ public class Main {
 
         }
 
+        //Metodo para imprimir nombre
+        static void nombreasgc() {
+
+            System.out.println("Nombre: Anna Sofía Giraldo Carvajal");
+            System.out.println("Número de documento: CC 1034986800");
+            System.out.println("Grupo: Viernes 6-9am");
+        }
 }
