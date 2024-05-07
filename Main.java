@@ -244,4 +244,10 @@ public class Main {
         System.out.println("Grupo: viernes 6 a 9am");
     }
 
+    static void NombreSebastian() {
+        System.out.println("Nombre:Sebastian Rendon");
+        System.out.println("clase 3091");
+        System.out.println("Grupo: viernes 6 a 9am");
+    }
+
 }
